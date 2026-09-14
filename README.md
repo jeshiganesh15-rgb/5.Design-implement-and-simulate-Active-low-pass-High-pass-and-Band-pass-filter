@@ -74,33 +74,65 @@ Let Ri = Rf = 10 KΩ
 
 **LPF:**
   **CIRCUIT DIAGRAM**
+  
+  <img width="430" height="230" alt="image" src="https://github.com/user-attachments/assets/56290bda-c0ec-4bb1-a03a-f7a0997f8ede" />
+
 
 
   **MODEL GRAPH:**
 
+<img width="463" height="290" alt="image" src="https://github.com/user-attachments/assets/f77547b6-26e1-46f0-a734-53c5d36f83c1" />
+
+
 
   **TABULATION:**
- 
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 10 37 59 PM" src="https://github.com/user-attachments/assets/ee8b46a8-3826-4a2f-b264-03395aa6def8" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 10 37 59 PM (1)" src="https://github.com/user-attachments/assets/abf0fb0b-ceac-4c53-99b9-837a1d7746f0" />
+
+
 
 
 
 **HPF:**
   **CIRCUIT DIAGRAM**
 
+  <img width="527" height="230" alt="image" src="https://github.com/user-attachments/assets/47c6f7ef-f2f7-4b1e-9156-6e4b6f17d64f" />
+
+
 
   **MODEL GRAPH:**
 
+  <img width="567" height="262" alt="image" src="https://github.com/user-attachments/assets/70011b62-57eb-4863-beb6-bfcf4a739be8" />
+
+
 
   **TABULATION:**
+  <img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 10 38 00 PM" src="https://github.com/user-attachments/assets/43a3d82c-839d-4f36-ab8f-3ff4c3ceba88" />
+
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-14 at 10 37 59 PM (2)" src="https://github.com/user-attachments/assets/0b815697-4be8-4fb9-b3f4-22aeacacdda1" />
+
 
   **BPF:**
   **CIRCUIT DIAGRAM**
 
+<img width="581" height="217" alt="image" src="https://github.com/user-attachments/assets/1bf4ffc9-c4ef-4a83-9d29-68c9d9f33720" />
+
 
   **MODEL GRAPH:**
 
+  <img width="577" height="300" alt="image" src="https://github.com/user-attachments/assets/c603a3cd-cb19-4685-95f0-ed4788249bc6" />
+
+
 
   **TABULATION:**
+  <img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 10 38 00 PM (1)" src="https://github.com/user-attachments/assets/fe512342-6425-4141-85a9-491247764c14" />
+
+
+
+  **Graph**
+
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 10 38 00 PM (2)" src="https://github.com/user-attachments/assets/d9ecf8eb-a835-4c00-9689-225982ffa342" />
+
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -113,6 +145,13 @@ Let Ri = Rf = 10 KΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
+
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 10 42 19 PM" src="https://github.com/user-attachments/assets/953a3b16-a1c8-4b56-b788-221cf7288962" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 10 42 20 PM (1)" src="https://github.com/user-attachments/assets/0493cd9b-1ebf-4f73-80f7-c789b6a0de23" />
+
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-14 at 10 42 20 PM" src="https://github.com/user-attachments/assets/3e1338f4-3c90-4626-8e82-66fbc18709b7" />
+
+
   
 
 **RESULT:**
